@@ -1,0 +1,63 @@
+.main-header{
+    background-color: #e9f4fe;
+}
+
+.menu-items{
+    font-size: 16px;
+    color: #333333;
+    padding: 8px 30px;
+}
+
+:hover.menu-items{
+    color: #0a66c2;
+}
+
+.toggle{
+    color: #333333;
+}
+
+:hover.toggle-btn{
+    background-color: #fff;
+    border: 1px solid #0a66c2;
+}
+
+.main-banner{
+    width: 100%;
+    height: 260px;
+    background-image: url('../public/banner.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.main-banner .banner-heading{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 95px;
+}
+
+.main-banner .banner-heading h1{
+    display: inline-block;
+    font-size: 50px;
+    font-weight: bold;
+    color: #1f4079;
+}
+
+.main-banner .banner-heading span{
+    color: #26abe2;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.main-banner .banner-heading p {
+    color: #26abe2;
+    font-size: 20px;
+    margin: 5px 0;
+    font-family: sans-serif;
+}
+
+iframe{
+    width: 100%;
+    height: 400px;
+}
