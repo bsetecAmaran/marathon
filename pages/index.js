@@ -15,8 +15,10 @@ export default function Home() {
         <title>Marathon</title>
         <link rel='icon' href='/logo.png' />
       </Head>
+      <div className='marathon_header'>
       <Navbar />
       <Banner />
+      </div>
       <MamPool />
     </div>
     </div>
