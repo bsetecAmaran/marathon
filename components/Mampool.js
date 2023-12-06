@@ -3,8 +3,7 @@ export const MamPool = () => {
         <>
 
             <div>
-                <iframe src="https://mempool.space/">
-                </iframe>
+            <a href="https://mempool.space/" target="_blank"> <img src="./mempoolbanner.png" className="mampool-banner" alt="mempool-page"/></a> 
             </div>
 
         </>
