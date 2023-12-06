@@ -12,8 +12,8 @@ export default function Home() {
     <div>
    <div>
       <Head>
-        <title>Create Next App</title>
-        <link rel='icon' href='/favicon.ico' />
+        <title>Marathon</title>
+        <link rel='icon' href='/logo.png' />
       </Head>
       <Navbar />
       <Banner />
