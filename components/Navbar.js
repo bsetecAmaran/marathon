@@ -12,7 +12,7 @@ export const Navbar = () => {
         <>
             <div className='main-header'>
                 <div className='container'>
-                    <nav className='flex items-center flex-wrap p-3 '>
+                    <nav className='flex items-center flex-wrap nav-bar'>
                         <Link href='/'>
                             <div className='inline-flex items-center p-2 mr-4 '>
                                 <h1>
